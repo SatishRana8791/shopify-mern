@@ -99,7 +99,17 @@ npm run dev
 ```
 
 ## 📸 Screenshots
-[Add screenshots here]
+### Home Page
+<img width="1919" height="918" alt="Screenshot 2026-03-28 180704" src="https://github.com/user-attachments/assets/a318a8e3-d904-4daf-83f9-95e099f9f592" />
+
+
+### Products Page
+<img width="1919" height="912" alt="Screenshot 2026-03-28 180730" src="https://github.com/user-attachments/assets/fb83676d-bb81-4d41-92a8-17185d3a3939" />
+
+
+### Admin Dashboard
+<img width="1917" height="912" alt="Screenshot 2026-03-28 180812" src="https://github.com/user-attachments/assets/0180b47d-05df-4ec3-815e-1a9132868165" />
+
 
 ## 👨‍💻 Author
 Satish Kumar
