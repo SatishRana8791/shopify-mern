@@ -17,7 +17,11 @@ const app=express();
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 app.use(cors({
-  origin: ['http://localhost:5173', 'https://shopify-mern-delta.vercel.app/'],
+  origin: [
+    'http://localhost:5173',
+    'https://shopify-mern.vercel.app',
+    /\.vercel\.app$/,
+  ],
   credentials: true,
 }))
 
