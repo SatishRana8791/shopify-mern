@@ -3,8 +3,8 @@
 A full featured e-commerce web application built with MERN Stack.
 
 ## 🔗 Live Demo
-- Frontend: [coming soon]
-- Backend: [coming soon]
+- Frontend: [ShopEasy](https://shopify-mern-delta.vercel.app)
+- Backend:  [API](https://shopify-mern-backend.onrender.com)
 
 ## ✨ Features
 
